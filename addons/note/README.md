@@ -6,8 +6,8 @@ From personal tasks to collaborative meeting minutes, increase your user's
 productivity by giving them the tools to prioritize their work, share their
 ideas and collaborate on documents.
 
-Personal to-do lists that works
--------------------------------
+Personal to-do lists that work
+------------------------------
 
 Quickly create to-dos, organize horizontally for the mid-term (today, this week, this month, ...), prioritize vertically for the short term and group by assigning colors. The kanban approach allows a simple visual organization of your to-dos.
 
@@ -42,8 +42,8 @@ An employee travelling a lot can organize their tasks based on the context to pe
 
 A manager will organize their high number of tasks based on prioritizations: Todo Today | This Week | This Month | Later
 
-Personnal Notes
----------------
+Personal Notes
+--------------
 
 ### Notes are private but can be shared
 
